@@ -17,7 +17,7 @@
   <li>🎓 <strong>Ph.D. Candidate</strong>, Industrial & Systems Engineering @ Texas A&amp;M University (’26 expected)</li>
   <li>🔬 Research: Smart & Secure Manufacturing, Dynamic Watermarking, Digital Twins, Federated Learning</li>
   <li>💼 <strong>Data Scientist Intern</strong>, Personalization & Recommendations @ American Airlines (Fall 2024)</li>
-  <li>🏆 SME 30‑Under‑30 (2024) • IISE DAIS Finalist (2024) • Dr. Fox Fellowship (’24‑’25)</li>
+  <li>🏆 SME 30‑Under‑30 (2024) • IISE DAIS Finalist (2024) • Dr. Fox Fellowship (’25‑’26)</li>
   <li>💡 Interests: Control Security · CPS · Multimodal AI · Industrial IoT</li>
 </ul>
 
@@ -102,7 +102,7 @@
 ```txt
 📧  abhishek.hanchate@tamu.edu
 🔗  linkedin.com/in/abhishekhanchate
-🌐  abhishakhanchate.github.io
+🌐  abhishekhanchate.github.io
 ```
 
 </details>
