@@ -91,7 +91,6 @@
 * **A. Hanchate**, <em>et al.</em> “Toward digitally twinning the process of creating machine‑controller digital twins – A G‑code generation scenario,” <strong>Manufacturing Letters</strong>, 41:1556‑1567, 2024.
 * **A. Hanchate**, <em>et al.</em> “Process signature‑driven high spatio‑temporal alignment of multimodal data,” <strong>arXiv 2403.06888</strong>, 2023.
 * **A. Hanchate**, <em>et al.</em> “Explainable AI‑driven vibration sensing scheme for surface‑quality monitoring in a smart surface‑grinding process,” <em>Journal of Manufacturing Processes</em>, 99:184‑194, 2023.
-* **A. Hanchate**, <em>et al.</em> “Low‑latency attack detection with dynamic watermarking,” <strong>IEEE JESTIE</strong>, 5(2):639‑651, 2023.
 
 *(Complete list → Google Scholar)*
 
